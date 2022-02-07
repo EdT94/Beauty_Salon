@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="myPurple">#AA00C7</color>
+    <color name="myPink">#FF80AB</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="mtrl_textinput_default_box_stroke_color">@color/white</color>
+</resources>

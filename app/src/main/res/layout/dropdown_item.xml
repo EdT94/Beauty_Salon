@@ -1,0 +1,9 @@
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dropDown_item"
+    android:layout_width="match_parent"
+    android:textColor="@color/myPurple"
+    android:padding="14dp"
+    android:layout_height="wrap_content"
+    android:text="TextView"
+    android:scrollbars="vertical"/>

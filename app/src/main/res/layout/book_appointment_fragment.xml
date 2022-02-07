@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bookAppointmentFragment_FRM_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@android:color/transparent"
+    android:orientation="vertical"
+    tools:context=".Fragments.BookAppointmentFragment">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:text="הזמנת תור"
+        android:textColor="@color/white"
+        android:textSize="30sp"></com.google.android.material.textview.MaterialTextView>
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/bookAppointmentFragment_TXT_validation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:textColor="@color/white"
+        android:textSize="16sp"></com.google.android.material.textview.MaterialTextView>
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/TextInputLayoutStyleBookAppointment"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:hint="בחר תאריך">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/bookAppointmentFragment_EDT_dateInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="false" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/AutoCompleteTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:theme="@style/backgroundColorAutoCompleteTextInput">
+
+        <AutoCompleteTextView
+            android:id="@+id/bookAppointmentFragment_AUT_treatmentInput"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:dropDownHeight="200dp"
+            android:focusable="false"
+            android:hint="בחר את סוג הטיפול"
+            android:inputType="none"></AutoCompleteTextView>
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        style="@style/AutoCompleteTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:theme="@style/backgroundColorAutoCompleteTextInput">
+
+        <AutoCompleteTextView
+            android:id="@+id/bookAppointmentFragment_AUT_hourInput"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:dropDownHeight="200dp"
+            android:focusable="false"
+            android:hint="בחר שעה"
+            android:inputType="none"></AutoCompleteTextView>
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/bookAppointmentFragment_BUT_bookButton"
+        android:layout_width="130dp"
+        android:layout_height="70dp"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        android:text="הזמן תור"
+        android:textColor="@color/myPurple"
+        android:textSize="20sp"
+        app:backgroundTint="@color/white" />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

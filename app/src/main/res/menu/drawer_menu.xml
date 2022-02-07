@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="ראשי"
+            android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/nav_bookAppointment"
+        android:title="הזמנת תור"
+        android:icon="@drawable/ic_book_appointment"/>
+
+    <item
+        android:id="@+id/nav_contact"
+        android:title="צור קשר"
+        android:icon="@drawable/ic_contact"/>
+
+        <item
+            android:id="@+id/nav_logout"
+            android:title="התנתק"
+            android:icon="@drawable/ic_logout"/>
+    </group>
+</menu>

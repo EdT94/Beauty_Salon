@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="60dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@android:color/transparent"
+    android:id="@+id/contactFragment_FRM_fragment"
+    tools:context=".Fragments.ContactFragment">
+
+    <FrameLayout
+        android:id="@+id/contactFragment_FRM_map"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_weight="1">
+    </FrameLayout>
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/contactFragment_TXT_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:layout_weight="4">
+    </com.google.android.material.textview.MaterialTextView>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

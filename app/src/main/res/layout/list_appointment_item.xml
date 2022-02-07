@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp"
+    android:elevation="9dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="15dp"
+    app:cardElevation="9dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:gravity="center">
+
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/appointments_TXT_appointment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="start"
+            android:maxLines="1"
+            android:textColor="@color/myPurple"
+            android:textSize="18sp" />
+
+        <ImageButton
+            android:id="@+id/appointments_BTN_wait"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginEnd="40dp"
+            android:backgroundTint="@color/white"
+            android:clickable="true"
+            android:src="@drawable/ic_wait"
+            app:tint="@color/myPurple"
+            android:background="@drawable/imageview_clicked"/>
+
+        <ImageButton
+            android:id="@+id/appointments_BTN_remove"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/imageview_clicked"
+            android:backgroundTint="@color/white"
+            android:clickable="true"
+            android:src="@drawable/ic_delete"
+            app:tint="@color/myPurple" />
+
+
+    </RelativeLayout>
+</com.google.android.material.card.MaterialCardView>

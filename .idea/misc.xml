@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable-v24/rounded_border_googlemap.xml" value="0.1375" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable/cursor_white.xml" value="0.21203703703703702" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable/custom_eye.xml" value="0.13854166666666667" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable/ic_book_appointment.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable/ic_contact.xml" value="0.21296296296296297" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable/ic_delete.xml" value="0.13802083333333334" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable/ic_logout.xml" value="0.21296296296296297" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable/imageview_clicked.xml" value="0.13802083333333334" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable/logo_effect.xml" value="0.18981481481481483" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable/rounded_border.xml" value="0.1375" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable/rounded_layout.xml" value="0.1375" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/drawable/text_input_layou_selector.xml" value="0.21296296296296297" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/activity_fullscreen.xml" value="0.18568840579710144" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/activity_login.xml" value="0.11764705882352941" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/activity_loginn.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/activity_main2.xml" value="0.1234375" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/activity_main_base.xml" value="0.2210144927536232" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/activity_main_manager.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/activity_register.xml" value="0.12239583333333333" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/activity_splash.xml" value="0.121875" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/app_bar_main.xml" value="0.1234375" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/appointement_list_fragment.xml" value="0.1234375" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/book_appointment_fragment.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/contact_fragment.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/content_main_manager.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/date_picker.xml" value="0.11875" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/date_picker_fragment.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/drawer_header.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/drawer_toolbar.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/fragment_blank.xml" value="0.11354166666666667" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/fragment_date_picker.xml" value="0.11875" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/fragment_gallery.xml" value="0.1234375" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/fragment_home.xml" value="0.1234375" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/fragment_slideshow.xml" value="0.1234375" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/header_layout.xml" value="0.21014492753623187" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/list_appointment_item.xml" value="0.1234375" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/login_activity.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/logo_fragment.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/mainPage_fragment.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/main_fragment.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/mainpage_fragment.xml" value="0.11354166666666667" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/manager_fragment.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/map_fragment.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/nav_header_main.xml" value="0.1234375" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/register_fragment.xml" value="0.12239583333333333" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/round_layout.xml" value="0.10729166666666666" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/toolbar.xml" value="0.1234375" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/layout/treatment_dropdown_item.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/menu/activity_main_drawer.xml" value="0.1234375" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/menu/drawer_manager_menu.xml" value="0.2421875" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/menu/drawer_menu.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/menu/main_activity2.xml" value="0.1234375" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/menu/navigation_menu.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.25833333333333336" />
+        <entry key="..\:/AndroidStudioProjects/ZinaBeautySalon/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.13802083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
