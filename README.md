@@ -29,5 +29,6 @@ After booking the appointment, it will appear on the main screen, if there are s
 
 Link to video :
 
+https://github.com/EdT94/Beauty_Salon/issues/1
 
 
